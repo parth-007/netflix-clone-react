@@ -1,0 +1,25 @@
+{
+  "name": "netflix-clone-react",
+  "version": "1.0.0",
+  "description": "A netflix clone with React + TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parth-007/netflix-clone-react.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "React",
+    "Netflix",
+    "Component"
+  ],
+  "author": "Parth Mangukiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parth-007/netflix-clone-react/issues"
+  },
+  "homepage": "https://github.com/parth-007/netflix-clone-react#readme"
+}
