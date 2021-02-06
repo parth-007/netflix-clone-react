@@ -45,6 +45,7 @@
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^3.10.1",
     "@typescript-eslint/parser": "^3.10.1",
+    "axios": "^0.21.1",
     "eslint": "^7.19.0",
     "eslint-plugin-react-hooks": "^4.2.0",
     "node-sass": "^5.0.0",
