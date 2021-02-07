@@ -10,7 +10,7 @@ function Row(props: {
   isLargeRow?: boolean;
 }): JSX.Element {
   const { title, fetchURL, isLargeRow } = props;
-  const [movies, setMovies] = useState([]);
+  const [movies, setMovies] = useState<Movie[]>([]);
 
   useEffect(() => {
     async function fetchData() {
