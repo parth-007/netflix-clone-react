@@ -3,7 +3,7 @@ import './App.scss';
 import Row from './components/Row';
 import { requests } from './requests';
 
-function App() {
+function App(): JSX.Element {
   return (
     <div className="App">
       <Row
